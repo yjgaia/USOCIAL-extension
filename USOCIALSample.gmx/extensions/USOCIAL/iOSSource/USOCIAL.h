@@ -1,0 +1,5 @@
+@interface USOCIAL : NSObject
+{
+}
+
+@end
